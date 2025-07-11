@@ -1,0 +1,36 @@
+/* styles.css - Custom Styles */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f7fa;
+}
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.stats-card, .form-card, .log-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin-bottom: 2rem;
+}
+
+footer {
+  background-color: #f1f1f1;
+  color: #666;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.progress {
+  height: 22px;
+  border-radius: 12px;
+}
+
+h2, h5 {
+  color: #0d6efd;
+}
